@@ -1,3 +1,5 @@
+# First Fcatorial
+
 def fact(N):
     fact = 1 
     while N > 0:
